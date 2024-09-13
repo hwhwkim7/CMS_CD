@@ -1,0 +1,104 @@
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/strike --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/karate --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/mexican --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/dolphin --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/polbooks --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/football --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/railway --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.0&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.1&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.2&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.3&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.4&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.5&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.6&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.7&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.8&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 0.9&
+python3 main.py --dataset ../dataset/polblogs --algor CMS --alpha 1.0&
+
+python3 main.py --dataset ../dataset/strike --algor ORC&
+python3 main.py --dataset ../dataset/karate --algor ORC&
+python3 main.py --dataset ../dataset/mexican --algor ORC&
+python3 main.py --dataset ../dataset/dolphin --algor ORC&
+python3 main.py --dataset ../dataset/polbooks --algor ORC&
+python3 main.py --dataset ../dataset/football --algor ORC&
+python3 main.py --dataset ../dataset/railway --algor ORC&
+python3 main.py --dataset ../dataset/polblogs --algor ORC&
