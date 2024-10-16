@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b8ea1ac-cea3-4023-b591-4659ba807083" name="gpu">
+        <fileTransfer rootFolder="/home/hwhwkim7/Continual_Learning/CL" accessType="SFTP" host="10.20.12.77" port="2256" sshConfigId="aede0169-31ee-40a2-9682-4932de22616c" sshConfig="hwhwkim7@10.20.12.77:2256 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

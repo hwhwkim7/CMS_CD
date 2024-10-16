@@ -22,16 +22,21 @@ def remove_largest_negative_edge(C, orc):
     return None
 # file_path = "dataset/syn/ds/d_avg_20"
 
+# @profile
 def run(C):
     start_time = time.time()
 
+    iter = 0
     while True:
+        iter += 1
+        s = time.time()
         orc = OllivierRicci(C, alpha=0.5, verbose="INFO")  # 다시 Ricci curvature를 계산
         orc.compute_ricci_curvature()
+        # print(time.time()-s)
 
         if not remove_largest_negative_edge(C, orc):
             break
-
+    # print(iter)
     communities = [list(component) for component in nx.connected_components(C)]
     end_time = time.time()
     return communities, end_time - start_time

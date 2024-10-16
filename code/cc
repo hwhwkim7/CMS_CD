@@ -1,0 +1,65 @@
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_1000 --algor CMS --alpha 0.0 --com 38&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_2000 --algor CMS --alpha 0.0 --com 67&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_3000 --algor CMS --alpha 0.0 --com 84&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_4000 --algor CMS --alpha 0.0 --com 104&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_5000 --algor CMS --alpha 0.0 --com 119&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_6000 --algor CMS --alpha 0.0 --com 140&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_7000 --algor CMS --alpha 0.0 --com 145&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_8000 --algor CMS --alpha 0.0 --com 164&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_9000 --algor CMS --alpha 0.0 --com 174&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_10000 --algor CMS --alpha 0.0 --com 179&
+
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_1000 --algor CMS --alpha 0.2 --com 38&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_2000 --algor CMS --alpha 0.2 --com 67&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_3000 --algor CMS --alpha 0.2 --com 84&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_4000 --algor CMS --alpha 0.2 --com 104&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_5000 --algor CMS --alpha 0.2 --com 119&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_6000 --algor CMS --alpha 0.2 --com 140&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_7000 --algor CMS --alpha 0.2 --com 145&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_8000 --algor CMS --alpha 0.2 --com 164&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_9000 --algor CMS --alpha 0.2 --com 174&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_10000 --algor CMS --alpha 0.2 --com 179&
+
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_1000 --algor CMS --alpha 0.4 --com 38&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_2000 --algor CMS --alpha 0.4 --com 67&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_3000 --algor CMS --alpha 0.4 --com 84&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_4000 --algor CMS --alpha 0.4 --com 104&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_5000 --algor CMS --alpha 0.4 --com 119&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_6000 --algor CMS --alpha 0.4 --com 140&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_7000 --algor CMS --alpha 0.4 --com 145&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_8000 --algor CMS --alpha 0.4 --com 164&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_9000 --algor CMS --alpha 0.4 --com 174&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_10000 --algor CMS --alpha 0.4 --com 179&
+
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_1000 --algor CMS --alpha 0.6 --com 38&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_2000 --algor CMS --alpha 0.6 --com 67&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_3000 --algor CMS --alpha 0.6 --com 84&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_4000 --algor CMS --alpha 0.6 --com 104&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_5000 --algor CMS --alpha 0.6 --com 119&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_6000 --algor CMS --alpha 0.6 --com 140&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_7000 --algor CMS --alpha 0.6 --com 145&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_8000 --algor CMS --alpha 0.6 --com 164&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_9000 --algor CMS --alpha 0.6 --com 174&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_10000 --algor CMS --alpha 0.6 --com 179&
+
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_1000 --algor CMS --alpha 0.8 --com 38&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_2000 --algor CMS --alpha 0.8 --com 67&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_3000 --algor CMS --alpha 0.8 --com 84&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_4000 --algor CMS --alpha 0.8 --com 104&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_5000 --algor CMS --alpha 0.8 --com 119&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_6000 --algor CMS --alpha 0.8 --com 140&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_7000 --algor CMS --alpha 0.8 --com 145&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_8000 --algor CMS --alpha 0.8 --com 164&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_9000 --algor CMS --alpha 0.8 --com 174&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_10000 --algor CMS --alpha 0.8 --com 179&
+
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_1000 --algor CMS --alpha 1.0 --com 38&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_2000 --algor CMS --alpha 1.0 --com 67&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_3000 --algor CMS --alpha 1.0 --com 84&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_4000 --algor CMS --alpha 1.0 --com 104&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_5000 --algor CMS --alpha 1.0 --com 119&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_6000 --algor CMS --alpha 1.0 --com 140&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_7000 --algor CMS --alpha 1.0 --com 145&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_8000 --algor CMS --alpha 1.0 --com 164&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_9000 --algor CMS --alpha 1.0 --com 174&&
+python3 main.py --dataset ../dataset/syn_dataset/scalability/scalability_10000 --algor CMS --alpha 1.0 --com 179&
